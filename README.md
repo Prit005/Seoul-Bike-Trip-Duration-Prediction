@@ -9,6 +9,7 @@ of Seoul Bike data and weather data. The Data used include trip duration, trip d
 pickup-drop-off latitude and longitude, temperature, precipitation, wind speed, humidity, solar
 radiation, snowfall, ground temperature and 1-hour average dust concentration.
 
+## Dataset Details
 ![data](data_dict_seoul.jpeg)
 
 ## Dataset:- Download from [**here**](https://www.kaggle.com/saurabhshahane/seoul-bike-trip-duration-prediction).
