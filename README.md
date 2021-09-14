@@ -15,7 +15,13 @@ radiation, snowfall, ground temperature and 1-hour average dust concentration.
 ## Dataset Details
 ![data](data_dict_seoul.jpeg)
 
-## Machine Learning Algorithms:-
+# TASK!!
+## 1. EDA
+## 2. Data Pre-processing
+## 3. Feature Engineering
+## 4. Preprocessing Data:- [**here**](https://drive.google.com/file/d/1OLegVzjnChgqf82D459d0qTrs--M81Pc/view?usp=sharing)
+
+## 5. Machine Learning Algorithms:-
 ### Baseline Model
 1) LinearRegression results:- 
 
